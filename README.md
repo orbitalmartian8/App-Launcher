@@ -8,6 +8,6 @@ My idea for this project is to create a simple, sleek, modern designed applicati
 !Initial Design Sketches to be added soon!
 
 ## Licensing
-This project is brought to you under the GNU GPL V3.0 License.
+This project is brought to you under the [GNU GPL V3.0 License](https://choosealicense.com/licenses/gpl-3.0/).
 
 ## Roadmap
