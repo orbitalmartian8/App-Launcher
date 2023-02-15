@@ -11,3 +11,11 @@ My idea for this project is to create a simple, sleek, modern designed applicati
 This project is brought to you under the [GNU GPL V3.0 License](https://choosealicense.com/licenses/gpl-3.0/).
 
 ## Roadmap
+| Task | Release Version (expected) | Progress |
+| :--- | :--- | :--- |
+| UI Window | v0.1 | In Progress |
+| Function to check OS and run specific file | v0.2 | Todo |
+| Individual python file for each OS that searches for all executable apps and lists them in the UI window | v0.3 | Todo |
+| Linux/Windows/iOS  executable | v1.0 | Todo |
+
+   | This roadmap is subject to change at any time.
